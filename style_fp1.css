@@ -327,8 +327,8 @@ p{
 #career .career {
     flex-direction: column;
     max-width: 1300px;
-    max-resolution: 0 auto;
     padding: 100px 0;
+    justify-content: center;
 }
 #career .career-header h1{
     margin-bottom: 50px;
@@ -344,10 +344,12 @@ p{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 80%;
+    width: 65%;
     margin: 20px auto;
     overflow: hidden;
     border-radius: 10px;
+    justify-content: center;
+    margin-left: 330px;
 }
 #career .career-info {
     padding: 30px;
