@@ -263,8 +263,7 @@ p{
 /* End Hero Section */
 
 /* Music Section */
-#music{
-}
+
 #music .music{
     flex-direction: column;
     text-align: center;
@@ -327,7 +326,6 @@ p{
 #career .career {
     flex-direction: column;
     max-width: 1300px;
-    max-resolution: 0 auto;
     padding: 100px 0;
 }
 #career .career-header h1{
