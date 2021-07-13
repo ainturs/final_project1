@@ -446,6 +446,7 @@ p{
     flex-direction: column;
     max-width: 1200px;
     margin: 0 auto;
+    color: black;
 }
 #contact .contact-items {
     width: 400px;
